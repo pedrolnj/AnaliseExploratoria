@@ -1,0 +1,2 @@
+# AnaliseExploratoria
+Atividade em Sala
