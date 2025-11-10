@@ -47,6 +47,7 @@ $$S = \sqrt{s^2}$$
 
 
 AMPLITUDE
+
 A  amplitude é a diferença entre o maior e o menor valor observado no conjunto de
 dados
 
