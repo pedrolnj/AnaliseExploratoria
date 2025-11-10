@@ -19,3 +19,35 @@ O boxplot do tempo de prisão revelou uma mediana próxima de 60 meses (5 anos).
 O gráfico evidenciou que o score médio de periculosidade tende a ser maior entre os indivíduos com ensino superior, seguidos pelos de ensino médio, e menor entre os de ensino fundamental. Apesar das diferenças não serem muito acentuadas, é possível notar uma tendência de aumento do score com o nível de escolaridade. O grupo de ensino superior apresentou também maior variabilidade interna, sugerindo perfis mais diversos de periculosidade dentro desse nível educacional.
 
 O gráfico mostrou que a maioria dos indivíduos não é reincidente, representando aproximadamente 60% a 70% da amostra. Ainda assim, há uma proporção relevante de reincidentes (em torno de 30% a 40%), indicando que uma parte significativa dos presos já havia sido detida anteriormente. Esse resultado sugere a importância de políticas voltadas à redução da reincidência criminal, visto que ela não é desprezível dentro do grupo analisado.
+
+MÉDIA
+
+A média é o valor obtido somando todos os elementos do conjunto de dados e dividindo pelo número total de observações.
+
+$$\bar{x} = \frac{x_1 + x_2 + x_3 + \cdots + x_n}{n}$$
+
+
+MEDIANA
+
+A mediana é o valor central de um conjunto de dados ordenado.
+
+
+VARIÂNCIA
+
+A variância mede o quanto os dados se dispersam em relação à média
+
+$$S^2 = \frac{\sum_{i=1}^{n}(x_i - \bar{x})^2}{n – 1}$$
+
+
+DESVIO PADRÃO
+
+O desvio padrão é a raiz quadrada da variância
+
+$$S = \sqrt{s^2}$$
+
+
+AMPLITUDE
+A  amplitude é a diferença entre o maior e o menor valor observado no conjunto de
+dados
+
+$$A = x_{\text{máx}} – x_{\text{mín}}$$
